@@ -142,7 +142,7 @@ Minha participação no projeto esteve concentrada na implementação da parte r
 
 Principais atividades desenvolvidas:
 
-- Implementação da parte referente ao Centro de Zoonoses no arquivo `grafo.txt`;
+- Implementação da parte referente ao Centro de Zoonoses no arquivo main.py;
 - Organização e estruturação dos dados relacionados ao Centro de Zoonoses;
 - Colaboração na organização e elaboração do arquivo `README.md`;
 - Participação no desenvolvimento colaborativo do projeto.
